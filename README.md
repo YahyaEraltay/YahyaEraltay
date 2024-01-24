@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yahya Eraltay</h1>
 <h3 align="center">Junior .net core developer</h3>
 
-- 🔭 I’m currently working on **Grocery Story Project**
+- 🔭 I’m currently working on **Resume Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
