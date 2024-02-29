@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yahya Eraltay</h1>
 <h3 align="center">Junior developer</h3>
 
-- 🔭 I’m currently working on **Resume Project**
+- 🔭 I’m currently working on **Task Management System**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
